@@ -530,7 +530,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # Hero Section
-st.markdown("<h1>CredSecure AI: High-Risk Borrower Detection</h1>", unsafe_allow_html=True)
+st.markdown("<h1>CredSecure AI: Credit Risk Classification</h1>", unsafe_allow_html=True)
 st.markdown('<p class="subtitle">AI-driven credit risk scoring for smarter lending decisions</p>', unsafe_allow_html=True)
 
 # Section 1: Borrower Profile
